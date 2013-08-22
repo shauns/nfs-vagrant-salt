@@ -2,7 +2,7 @@
 
 This repository provides Vagrantfiles and Salt states to configure both a client and server to share files across NFS.
 
-You can also think of this as a simple resource for learning 
+You can also think of this as a simple resource for learning about the included technologies.
 
 ## Pre-requisites
 
